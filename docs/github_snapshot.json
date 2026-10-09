@@ -1,0 +1,60 @@
+{
+  "checked_on": "2026-10-09",
+  "source": "GitHub REST repository metadata and releases/latest fetched directly",
+  "ranking_scope": "Only the inspected official repositories; not a global ranking",
+  "stars_are": "Popularity counts, not empirical reproducibility or corpus quality evidence",
+  "repositories": [
+    {
+      "repo": "pytorch/pytorch",
+      "stars": 103946,
+      "default_branch": "main",
+      "updated_at": "2026-10-09T09:51:24Z",
+      "url": "https://github.com/pytorch/pytorch",
+      "latest_release": {
+        "version": "v2.14.1",
+        "published_at": "2026-09-30T19:14:48Z",
+        "url": "https://github.com/pytorch/pytorch/releases/tag/v2.14.1"
+      }
+    },
+    {
+      "repo": "tensorflow/tensorflow",
+      "stars": 200573,
+      "default_branch": "master",
+      "updated_at": "2026-10-09T10:50:49Z",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "latest_release": {
+        "version": "v2.21.0",
+        "published_at": "2026-03-06T19:48:15Z",
+        "url": "https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0"
+      }
+    },
+    {
+      "repo": "opencv/opencv",
+      "stars": 91127,
+      "default_branch": "5.x",
+      "updated_at": "2026-10-09T09:06:32Z",
+      "url": "https://github.com/opencv/opencv",
+      "latest_release": {
+        "version": "5.0.0",
+        "published_at": "2026-06-06T10:52:34Z",
+        "url": "https://github.com/opencv/opencv/releases/tag/5.0.0"
+      }
+    },
+    {
+      "repo": "huggingface/datasets",
+      "stars": 22043,
+      "default_branch": "main",
+      "updated_at": "2026-10-08T18:11:19Z",
+      "url": "https://github.com/huggingface/datasets",
+      "latest_release": null
+    },
+    {
+      "repo": "mlfoundations/dclm",
+      "stars": 1475,
+      "default_branch": "main",
+      "updated_at": "2026-10-07T07:06:56Z",
+      "url": "https://github.com/mlfoundations/dclm",
+      "latest_release": null
+    }
+  ]
+}

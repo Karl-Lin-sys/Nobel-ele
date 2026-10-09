@@ -1,0 +1,22 @@
+{
+  "capture_end": "1:07:11",
+  "capture_start": "4:21",
+  "collection_method": "Submitter-selected live chat translations; complete audio and Japanese transcript not supplied.",
+  "dataset_license": "not_specified",
+  "event_identity_verified": false,
+  "event_label_from_text": "Nobel Prize discussion",
+  "ig_nobel_material_present": false,
+  "note": "Submission date is not the stream date. No guessed video URL, prize year, Japanese sentence, or Ig Nobel example has been added.",
+  "origin": "One unique block of 47 timestamped English lines provided directly by Karl-Lin-sys; the repeated copies in the request were not ingested as new observations.",
+  "raw_whitespace_policy": "Outer trailing spaces omitted when serialising the supplied lines; words, punctuation, and timestamps preserved.",
+  "reported_streamer": "Sopia",
+  "reported_translator": "Karl-Lin-sys",
+  "rights_status": "not_documented",
+  "schema_version": "1.0",
+  "scientific_fact_verification": "not_performed_under_the_requested_ML_only_source_scope",
+  "source_url": null,
+  "stream_date": null,
+  "stream_id": "sopia-nobel-submission-001",
+  "submission_timezone": "Asia/Taipei",
+  "submitted_on": "2026-10-09"
+}

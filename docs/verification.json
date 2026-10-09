@@ -1,0 +1,39 @@
+{
+  "approved_translation_pairs": 0,
+  "canonical_rows": 47,
+  "checked_on": "2026-10-09",
+  "checks": [
+    "Deterministic corpus byte-for-byte rebuild and source-line preservation.",
+    "Timestamp, Unicode, JSON key, finite-number, and line-length validation.",
+    "Failed-write rollback and prevention of input overwrites.",
+    "Transitive duplicate/stream grouping and deterministic partitions.",
+    "Missing-source/target/review/fact-evidence training export refusal.",
+    "Duplicate-pair removal in prompt/completion and messages formats.",
+    "Train/test stream and exact text overlap refusal.",
+    "Micro/macro weighting on synthetic fixtures and fixed evaluation denominator."
+  ],
+  "code_sha256": {
+    "corpus.py": "a06fc73b7fc17e8068151c3ee300ccf2df34001bcd9bcabf52b3e7da972033ee",
+    "evaluate.py": "186516623d51721a670ab9fa533acf3e5110cdd59158125df426e41e4646e29e",
+    "tests/test_pipeline.py": "d8e76f48bf1ddb847f8e5f81f25a3e478af9cc4dd0742e725fc55ca9237df390"
+  },
+  "command": "python3 -m unittest discover -s tests -v",
+  "corpus_sha256": "0d3c390101ce6c1b1dd6a3402cf847195816c6c5bad9a3333cc386ec90aa9cff",
+  "distinct_normalised_original_texts": 46,
+  "editorial_edits": 8,
+  "errors": 0,
+  "failures": 0,
+  "generalisation_measured": false,
+  "independent_streams": 1,
+  "memory_leak_proof": false,
+  "performance_benchmark": null,
+  "production_functions_with_complexity_documentation": 27,
+  "python": "3.12.14",
+  "raw_input_sha256": [
+    "00de90a0cb120b357bc0f2db678813416cf6d6d5719ee6cf4cf243d16b7f56d5"
+  ],
+  "scientific_facts_verified": false,
+  "training_performed": false,
+  "unit_tests_run": 18,
+  "upload_verification": "A remote Git commit and complete file-blob match are checked separately after publishing."
+}

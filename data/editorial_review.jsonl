@@ -1,0 +1,47 @@
+{"claim_flags":["award_claim_unverified"],"genre":"stream_chat","near_duplicate_group":null,"timestamp":"4:21","topic":"general"}
+{"claim_flags":[],"edit_note":"Expanded BGM and improved natural phrasing.","genre":"stream_chat","near_duplicate_group":null,"text_en_ca":"I forgot the background music too! lol","timestamp":"4:45","topic":"general"}
+{"claim_flags":[],"genre":"stream_chat","near_duplicate_group":null,"timestamp":"5:08","topic":"general"}
+{"claim_flags":["award_schedule_unverified"],"genre":"stream_chat","near_duplicate_group":null,"timestamp":"6:04","topic":"general"}
+{"claim_flags":["relative_date_unanchored"],"genre":"stream_chat","near_duplicate_group":null,"timestamp":"7:36","topic":"general"}
+{"claim_flags":["relative_date_unanchored"],"genre":"stream_chat","near_duplicate_group":"saturday-chat","timestamp":"8:26","topic":"general"}
+{"claim_flags":[],"genre":"stream_chat","near_duplicate_group":null,"timestamp":"9:17","topic":"general"}
+{"claim_flags":["award_description_unverified"],"genre":"stream_chat","near_duplicate_group":null,"timestamp":"11:06","topic":"general"}
+{"claim_flags":[],"genre":"stream_chat","near_duplicate_group":null,"timestamp":"11:16","topic":"general"}
+{"claim_flags":[],"edit_note":"Added for and expanded mins; preserved the stated duration.","genre":"stream_chat","near_duplicate_group":null,"text_en_ca":"Physics is my field, but I’m going to brush up on a bit of chemistry too! I'll talk about it for about 30 minutes!","timestamp":"11:43","topic":"general"}
+{"claim_flags":["award_claim_unverified"],"genre":"award_claim","near_duplicate_group":"chemistry-award","timestamp":"16:39","topic":"chemistry"}
+{"claim_flags":[],"genre":"stream_chat","near_duplicate_group":null,"timestamp":"17:23","topic":"chemistry"}
+{"claim_flags":["analogy_not_literal"],"genre":"science_explanation","near_duplicate_group":"handedness-analogy","timestamp":"19:21","topic":"chemistry"}
+{"claim_flags":[],"genre":"stream_chat","near_duplicate_group":null,"timestamp":"19:29","topic":"chemistry"}
+{"claim_flags":["scientific_claim_unverified"],"genre":"science_explanation","near_duplicate_group":"handedness-analogy","timestamp":"20:22","topic":"chemistry"}
+{"claim_flags":["scientific_claim_unverified"],"genre":"science_explanation","near_duplicate_group":"handedness-analogy","timestamp":"21:20","topic":"chemistry"}
+{"claim_flags":["fictional_example","visual_context_missing"],"genre":"science_explanation","near_duplicate_group":"asobi-molecule","timestamp":"23:31","topic":"chemistry"}
+{"claim_flags":["visual_context_missing"],"genre":"stream_chat","near_duplicate_group":null,"timestamp":"24:20","topic":"chemistry"}
+{"claim_flags":["scientific_claim_unverified","fictional_example","visual_context_missing"],"genre":"science_explanation","near_duplicate_group":"asobi-molecule","timestamp":"25:05","topic":"chemistry"}
+{"claim_flags":["scientific_claim_unverified","fictional_example"],"genre":"science_explanation","near_duplicate_group":"asymmetric-selectivity","timestamp":"27:15","topic":"chemistry"}
+{"claim_flags":["award_claim_unverified"],"genre":"award_claim","near_duplicate_group":"chemistry-award","timestamp":"27:31","topic":"chemistry"}
+{"claim_flags":["scientific_claim_unverified","antecedent_context_required"],"genre":"science_explanation","near_duplicate_group":"asymmetric-selectivity","timestamp":"27:39","topic":"chemistry"}
+{"claim_flags":["scientific_claim_unverified","fictional_example","speakers_not_separated"],"genre":"mixed_dialogue","near_duplicate_group":"asymmetric-selectivity","timestamp":"29:00","topic":"chemistry"}
+{"claim_flags":["award_claim_unverified"],"genre":"stream_chat","near_duplicate_group":null,"timestamp":"31:19","topic":"general"}
+{"claim_flags":["relative_date_unanchored"],"edit_note":"Corrected casual chatting to casual chat and smoothed phrasing.","genre":"stream_chat","near_duplicate_group":"saturday-chat","text_en_ca":"I'll have a casual chat on Saturday, so please let me talk about Nobel Prizes a bit more today. lol","timestamp":"31:51","topic":"general"}
+{"claim_flags":["award_claim_unverified"],"edit_note":"Repaired spacing and lo l; award claim remains unverified.","genre":"award_claim","near_duplicate_group":"medicine-award","text_en_ca":"The Nobel Prize in Physiology or Medicine was awarded for discoveries involving light-controlled ion channels and optogenetics! Congratulations! I see... I have almost no idea what that means! lol","timestamp":"35:57","topic":"medicine"}
+{"claim_flags":["scientific_claim_unverified"],"genre":"science_explanation","near_duplicate_group":"optogenetics","timestamp":"37:26","topic":"medicine"}
+{"claim_flags":[],"genre":"stream_chat","near_duplicate_group":null,"timestamp":"43:56","topic":"physics"}
+{"claim_flags":["relative_date_unanchored"],"genre":"stream_chat","near_duplicate_group":null,"timestamp":"45:11","topic":"physics"}
+{"claim_flags":["award_claim_unverified"],"genre":"award_claim","near_duplicate_group":"physics-award","timestamp":"46:50","topic":"physics"}
+{"claim_flags":["scientific_claim_unverified"],"genre":"science_explanation","near_duplicate_group":"neutrino-passage","timestamp":"49:07","topic":"physics"}
+{"claim_flags":["quantity_requires_scope","scientific_claim_unverified"],"genre":"science_explanation","near_duplicate_group":"neutrino-passage","timestamp":"49:40","topic":"physics"}
+{"claim_flags":["award_claim_unverified"],"genre":"award_claim","near_duplicate_group":"physics-award","timestamp":"50:09","topic":"physics"}
+{"claim_flags":[],"edit_note":"Repaired English grammar; source Japanese was not available for verification.","genre":"stream_chat","near_duplicate_group":null,"text_en_ca":"I feel like I'm playing Kanji de GOGO because I forgot how to write the kanji for ‘ghost’. lol","timestamp":"50:47","topic":"general"}
+{"claim_flags":["scientific_claim_unverified"],"genre":"science_explanation","near_duplicate_group":"neutrino-astronomy","timestamp":"53:28","topic":"physics"}
+{"claim_flags":["scientific_claim_unverified","absolute_wording_requires_review"],"genre":"science_explanation","near_duplicate_group":"neutrino-astronomy","timestamp":"55:21","topic":"physics"}
+{"claim_flags":["award_claim_unverified","scientific_claim_unverified"],"edit_note":"Added missing sentence spacing; scientific claims were not changed.","genre":"award_claim","near_duplicate_group":"physics-award","text_en_ca":"And this year’s Nobel Prize in Physics was about getting much better at detecting them! They even built an observatory in Antarctica to catch them! Antarctica for the win!! lol","timestamp":"55:32","topic":"physics"}
+{"claim_flags":["scientific_claim_unverified","causal_oversimplification_possible"],"genre":"science_explanation","near_duplicate_group":null,"timestamp":"56:23","topic":"physics"}
+{"claim_flags":["scientific_claim_unverified"],"genre":"science_explanation","near_duplicate_group":"icecube-depth","timestamp":"59:43","topic":"physics"}
+{"claim_flags":["scientific_claim_unverified","causal_oversimplification_possible"],"genre":"science_explanation","near_duplicate_group":"icecube-depth","timestamp":"59:55","topic":"physics"}
+{"claim_flags":["quantity_requires_scope","cost_currency_year_unverified"],"genre":"science_explanation","near_duplicate_group":null,"timestamp":"1:02:06","topic":"physics"}
+{"claim_flags":["scientific_claim_unverified"],"genre":"science_explanation","near_duplicate_group":"icecube-depth","timestamp":"1:03:19","topic":"physics"}
+{"claim_flags":["scientific_claim_unverified"],"genre":"science_explanation","near_duplicate_group":"icecube-discovery","timestamp":"1:03:26","topic":"physics"}
+{"claim_flags":["visual_context_missing"],"edit_note":"Added a readability comma.","genre":"stream_chat","near_duplicate_group":null,"text_en_ca":"The scale is so huge, even in my drawing! lol","timestamp":"1:04:24","topic":"physics"}
+{"claim_flags":["scientific_claim_unverified"],"genre":"science_explanation","near_duplicate_group":"icecube-discovery","timestamp":"1:05:22","topic":"physics"}
+{"claim_flags":[],"edit_note":"Corrected Thanks for to Thanks to.","genre":"stream_chat","near_duplicate_group":null,"text_en_ca":"Thanks to these scientists! 👏","timestamp":"1:05:33","topic":"physics"}
+{"claim_flags":["relative_date_unanchored"],"genre":"stream_chat","near_duplicate_group":"saturday-chat","timestamp":"1:07:11","topic":"general"}
